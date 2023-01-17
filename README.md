@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## About me
+
+- 🔭 I’m currently working on [Chunghwa Telecom Co., Ltd.](https://www.cht.com.tw/en/home/cht)
+- 🌱 I’m currently learning Azure, AWS
+
+
+
 <!--
 **divazone/divazone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
