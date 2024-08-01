@@ -15,7 +15,7 @@
 
 - [podman](https://github.com/containers/podman)
 
-![img](https://github-readme-stats.vercel.app/api?username=divazone&count_private=true&show_icons=true&include_all_commits=true&theme=radical
+![img](https://github-readme-stats.vercel.app/api?username=divazone&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
 <p align="center"> 
   Visitor count<br>
