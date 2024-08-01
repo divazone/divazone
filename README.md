@@ -7,7 +7,6 @@
 
 ![Divazone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divazone&show_icons=true&theme=radical)
 
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/divazone/count.svg" />
