@@ -1,11 +1,21 @@
-### Hi there 👋
-
-## About me
+# Hi there 👋
 
 - 🔭 I’m currently working on [Chunghwa Telecom Co., Ltd.](https://www.cht.com.tw/en/home/cht)
 - 🌱 I’m currently learning Azure, AWS
 
-![Divazone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divazone&show_icons=true&theme=radical)
+## I know a little about
+
+- System Adminitration (Linux)
+- Distributed Systems
+- Cloud Systems
+- Cloud-Native Architecture
+- GPU Computing
+
+## I use
+
+- [podman](https://github.com/containers/podman)
+
+![img](https://github-readme-stats.vercel.app/api?username=divazone&count_private=true&show_icons=true&include_all_commits=true&theme=radical
 
 <p align="center"> 
   Visitor count<br>
