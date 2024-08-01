@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on [Chunghwa Telecom Co., Ltd.](https://www.cht.com.tw/en/home/cht)
 - 🌱 I’m currently learning Azure, AWS
+- :computer: I code in Java / Python / Bash / some Go
 
 ## I know a little about
 
@@ -13,7 +14,11 @@
 
 ## I use
 
+- [vim](https://github.com/vim/vim)
 - [podman](https://github.com/containers/podman)
+- [kubernetes](https://kubernetes.io/)
+- [McBopomofo](https://github.com/openvanilla/McBopomofo)
+- [Filco keyboards](https://www.diatec.co.jp/en/)
 
 ![img](https://github-readme-stats.vercel.app/api?username=divazone&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
