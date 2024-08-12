@@ -19,6 +19,8 @@
 - [kubernetes](https://kubernetes.io/)
 - [McBopomofo](https://github.com/openvanilla/McBopomofo)
 - [Filco keyboards](https://www.diatec.co.jp/en/)
+- [HHKB keyboards](https://happyhackingkb.com/)
+- [Logitech MX Master 3S Mouse](https://www.logitech.com/)
 
 ![img](https://github-readme-stats.vercel.app/api?username=divazone&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
