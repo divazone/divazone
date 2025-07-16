@@ -26,7 +26,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/divazone/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=divazone&style=for-the-badge" />
 </p>
 
 <!--
