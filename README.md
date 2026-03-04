@@ -22,8 +22,6 @@
 - [HHKB keyboards](https://happyhackingkb.com/)
 - [Logitech MX Master 3S Mouse](https://www.logitech.com/)
 
-![img](https://github-readme-stats.vercel.app/api?username=divazone&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://komarev.com/ghpvc/?username=divazone&style=for-the-badge" />
